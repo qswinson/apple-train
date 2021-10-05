@@ -1,0 +1,23 @@
+{
+  "name": "apple-train",
+  "version": "1.0.0",
+  "description": "apple-train",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive unitTests/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qswinson/apple-train.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qswinson/apple-train/issues"
+  },
+  "homepage": "https://github.com/qswinson/apple-train#readme",
+  "dependencies": {
+    "mocha": "^9.0.0",
+    "testdouble": "^3.16.2"
+  }
+}
